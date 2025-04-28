@@ -10,8 +10,12 @@ To write a C Program to perform the basic left shift operation for 44 integer nu
 5.	Stop the program.
 
 ## PROGRAM
+![image](https://github.com/user-attachments/assets/c3d387fe-4d7b-4ce3-8e2b-bd549bd29609)
+
 
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/91f047f7-6dcf-4d75-9b12-d3e691c16dcc)
+
 
 
 
@@ -47,9 +51,13 @@ Write a C Program to check whether the two numbers are equal or not using simple
 5.	Stop the program.
 
 ## PROGRAM
+![image](https://github.com/user-attachments/assets/45f0e2ef-88d5-4502-b18f-91d55e0de73b)
+
 
 
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/d106b24f-6e59-4cb1-b693-5658eec58d3f)
+
            
 ## RESULT
 
@@ -70,8 +78,13 @@ Write a C Program to convert the given string into lowercase.
 5.	Stop the program.
 
 ## PROGRAM
+![image](https://github.com/user-attachments/assets/a68eda23-5f40-4183-8e87-c0906d31dbbd)
+
 
 ## OUTPUT
+
+![image](https://github.com/user-attachments/assets/b8901c10-9cd8-4efa-9a6c-2030a1af2a92)
+
 
 
 
@@ -96,7 +109,13 @@ Write a C Program to count the total number of words in a given string using do 
 
 ## PROGRAM
 
+![image](https://github.com/user-attachments/assets/0b0c72b3-bbd7-4ff6-96de-40f2ae685d3e)
+
+
 ## OUTPUT
+
+![image](https://github.com/user-attachments/assets/1e317b2a-a42f-42b0-b5c7-a0c810362ecd)
+
 
 
 
@@ -130,8 +149,14 @@ Step 8: End the program.
 
 ## PROGRAM
 
+![image](https://github.com/user-attachments/assets/052d1862-2ae6-4ce1-ab11-59b4c8d79177)
+
+
 
 ## OUTPUT
+
+![image](https://github.com/user-attachments/assets/08df96d2-49a4-430e-ae76-f495deb81336)
+
  
 
 ## RESULT
